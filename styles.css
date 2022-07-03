@@ -1,18 +1,21 @@
+/* Navbar */
 #ISesion {
-
-border: none;
-padding: 5px;
-margin-right: 10px;
+    padding: 5px;
+    margin-right: 10px;
 }
 
-#dawn{
-padding: 0px;
-border: none;
+#dawn {
+    padding: 0px;
+    border: none;
 }
+
+
+
+/* Headhings*/
 
 #headings {
-padding-left: 35px;
-padding-right: 35px;
+    padding-left: 35px;
+    padding-right: 35px;
 }
 
 .col-lg-4 {
