@@ -1,6 +1,7 @@
 /* Navbar */
+
+/*Intenté hacer el margin con bootstrap, pero no me funciono de esta manera (mr-2), entonces por eso lo hice por css*/
 #ISesion {
-    padding: 5px;
     margin-right: 10px;
 }
 
